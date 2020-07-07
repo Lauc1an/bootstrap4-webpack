@@ -1,0 +1,13 @@
+# Node.js related files
+node_modules/
+dist/
+vendor/
+resources/
+package-lock.json
+composer.lock
+.idea
+
+# OS generated files
+.DS_Store
+.Trashes
+Thumbs.db
